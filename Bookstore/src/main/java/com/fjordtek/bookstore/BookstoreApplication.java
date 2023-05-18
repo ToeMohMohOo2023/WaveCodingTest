@@ -10,7 +10,6 @@ import org.thymeleaf.templateresolver.UrlTemplateResolver;
 /**
 *
 * This is the main Spring Boot application class for the bookstore project.
-* <p>
 * Initializes and handles initialization of the application.
 *
 */
